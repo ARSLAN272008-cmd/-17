@@ -1,0 +1,5 @@
+git clone
+git fakeTeamwork
+git commit -m "My commit"
+git pull --rebase
+git push
